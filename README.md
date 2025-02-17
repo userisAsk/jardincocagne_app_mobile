@@ -1,2 +1,1 @@
-# jardincocagne_app_mobile
-Application mobile - Jardin de cocagne
+NOUVEAU REPOSITORY : https://github.com/userisAsk/cocagneAppMobile
